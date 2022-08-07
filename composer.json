@@ -1,0 +1,16 @@
+{
+  "name": "bexruz999/new_package",
+  "description": "new package",
+  "type": "library",
+  "require": {
+    "php": ">=8.1"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "fatullayev bexruz",
+      "email": "bexruzfatullayev999@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
